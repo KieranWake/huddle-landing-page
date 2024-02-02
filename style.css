@@ -5,5 +5,9 @@
 }
 
 body {
-    background-color: blueviolet;
+    background-image: url(images/bg-desktop.svg);
+    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
