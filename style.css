@@ -14,17 +14,16 @@ body {
 }
 
 .header-item {
-    width: 15rem;
-    margin: 0;
+    width: 12.5rem;
+    margin: 3rem;
     padding: 0;
-
 }
 
 .main-content {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 3rem;
+    margin-top: 0rem;
 }
 
 .left-content,
@@ -34,7 +33,7 @@ body {
 }
 
 .mockup-item {
-    width: 30rem;
+    width: 38rem;
     height: 400px;
 }
 
