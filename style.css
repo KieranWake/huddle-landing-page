@@ -37,16 +37,7 @@ body {
     height: 375px;
 }
 
-.footer-container {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    margin-right: 5rem;
-}
 
-.footer-container img {
-    width: 10rem;
-}
 
 
 
