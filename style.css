@@ -16,25 +16,33 @@ body {
 .header-item {
     width: 12.5rem;
     margin: 3rem;
-    padding: 0;
+    padding-left: 1.5rem;
 }
 
 .main-content {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 0rem;
 }
 
 .left-content,
 .right-content {
-    padding: 0 3rem;
-
+    margin: 0 2rem;
+    width: 33rem;
 }
 
 .mockup-item {
     width: 35rem;
     height: 375px;
+}
+
+.right-content {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: #fff;
+    line-height: 20px;
+    margin-bottom: 8rem;
 }
 
 
