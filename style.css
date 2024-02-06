@@ -24,16 +24,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 4rem;
 }
 
-.left-content,
-.right-content {
-    margin: 0 4rem; 
-}
 
 .mockup-item {
-    width: 35rem;
-    height: 400px;
+    width: 40rem;
+    height: 425px;
 }
 
 .right-content {
@@ -42,6 +39,7 @@ body {
     gap: 30px;
     color: #fff;
     margin-bottom: 6rem;
+    
 }
 
 .right-content h1 {
