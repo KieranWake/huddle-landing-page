@@ -14,9 +14,10 @@ body {
 }
 
 .header-item {
-    width: 15rem;
-    margin: 3rem;
+    width: 12.5rem;
+    margin: 2rem;
     padding-left: 1.5rem;
+    
 }
 
 .main-content {
@@ -27,13 +28,12 @@ body {
 
 .left-content,
 .right-content {
-    margin: 0 2rem;
-    width: 33rem;
+    margin: 0 4rem; 
 }
 
 .mockup-item {
     width: 35rem;
-    height: 380px;
+    height: 400px;
 }
 
 .right-content {
