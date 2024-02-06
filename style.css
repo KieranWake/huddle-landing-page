@@ -47,6 +47,13 @@ body {
     font-size: 2.30em;
 }
 
+.right-content button {
+    width: 10rem;
+    padding: .8rem;
+    border-radius: 20px;
+    border: none;
+}
+
 
 
 
