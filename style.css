@@ -55,6 +55,20 @@ body {
     border: none;
 }
 
+.footer-container {
+    display: flex; 
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-container img {
+    width: 75px;
+    margin-top: .5rem;
+    
+}
+
 
 
 
