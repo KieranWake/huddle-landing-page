@@ -47,7 +47,6 @@ body {
     gap: 30px;
     color: #fff;
     margin-bottom: 6rem;
-    font-family: poppins-regular;
 }
 
 .right-content h1 {
@@ -60,6 +59,13 @@ body {
     padding: .8rem;
     border-radius: 20px;
     border: none;
+    font-family: poppins-regular;
+    font-weight: 400;
+}
+
+.right-content p {
+    font-family: poppins-regular;
+    font-weight: 400;
 }
 
 .footer-container {
