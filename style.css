@@ -6,8 +6,9 @@
 
 @font-face {
     font-family: poppins-regular;
-    src: url(
-    );
+    src: url(OpenSans-Regular.ttf);
+    font-weight: normal; 
+    font-style: normal;
 }
 
 body {
@@ -46,7 +47,7 @@ body {
     gap: 30px;
     color: #fff;
     margin-bottom: 6rem;
-    
+    font-family: poppins-regular;
 }
 
 .right-content h1 {
