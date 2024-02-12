@@ -59,6 +59,7 @@ body {
 .right-content h1 {
     font-size: 2.30em;
     font-family: poppins-regular;
+    font-weight: 600;
 }
 
 .right-content button {
