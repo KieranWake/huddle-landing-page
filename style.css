@@ -99,7 +99,9 @@ body {
 
 @media screen and (min-width: 100px) {
     body {
-        
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
     }
 }
 
