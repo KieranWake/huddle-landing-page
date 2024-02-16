@@ -70,6 +70,12 @@ body {
     border: none;
     font-family: open-sans;
     font-weight: 400;
+    transition: 1s;
+}
+
+.right-content button:hover {
+    background-color: blue;
+
 }
 
 .right-content p {
@@ -89,6 +95,8 @@ body {
     margin-top: 0.5rem;
     mix-blend-mode: multiply;
 }
+
+
 
 
 
