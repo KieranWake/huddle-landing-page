@@ -97,28 +97,6 @@ body {
     mix-blend-mode: multiply;
 }
 
-@media screen and (min-width: 600px) {
-    body {
-        flex-direction: column;
-    }
-
-    .main-content {
-        flex-direction: row;
-    }
-
-    .left-content {
-        margin-right: 2rem;
-    }
-
-    .right-content {
-        margin-bottom: 0;
-    }
-
-    .footer-container {
-        margin-right: 20px;
-        margin-top: 0rem;
-    }
-}
 
 
 
