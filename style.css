@@ -20,7 +20,7 @@
 
 body {
     background-image: url(images/bg-desktop.svg);
-    background-size: 1200px;
+    background-size: cover;
     background-repeat: no-repeat;
     background-color: hsl(257, 40%, 49%);
 }
